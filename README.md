@@ -23,7 +23,7 @@
  This site was built using [GitHub Pages](https://pages.github.com/)
 
 ## Degree, Certification, Courses
-Google Data Analytics Professional [Certificate] (\certificates)
+Google Data Analytics Professional [Certificate] (https://drive.google.com/drive/folders/1lx2AlT4Q1JlAWyDqniGzLD8-My-dsnXZ?usp=sharing)
 ### Degree
 - Bachelor's Degree in Pedagogics (Belarusian State Pedagogical University)
 - Bachelor in Medicine (Belarusian State Medical University) 

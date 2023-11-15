@@ -22,7 +22,10 @@
  ## Visualization  (Tableau)
  This site was built using [GitHub Pages](https://pages.github.com/)
 
-### Education 
-** Bachelor 
+## Degree, Certification, Courses
+Google Data Analytics Professional [Certificate] (\certificates)
+### Degree
+- Bachelor's Degree in Pedagogics (Belarusian State Pedagogical University)
+- Bachelor in Medicine (Belarusian State Medical University) 
 
 ### Work Experience 

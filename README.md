@@ -12,20 +12,30 @@
  -
  -
  -
+ 
  ## R-Studio-based Projects 
+ - 
  -
  -
- -
+ 
  ## Microsoft-Excel-based Projects 
  -
  -
- ## Visualization  (Tableau)
- This site was built using [GitHub Pages](https://pages.github.com/)
+ 
+ ## Visualization  
+ - [Tableau](https://public.tableau.com/app/profile/aksana.sutyrka/vizzes)
 
-## Degree, Certification, Courses
-Google Data Analytics Professional [Certificate](https://drive.google.com/drive/folders/1lx2AlT4Q1JlAWyDqniGzLD8-My-dsnXZ?usp=sharing)
+## Certification, Courses
+- Google Data Analytics Professional [Certificate](https://www.coursera.org/account/accomplishments/professional-cert/XJA3ANKV6BMY)
+
 ### Degree
 - Bachelor's Degree in Pedagogics (Belarusian State Pedagogical University)
 - Bachelor in Medicine (Belarusian State Medical University) 
 
-### Work Experience 
+### Work Experience and Internship
+
+- MeriSKILL Internship (October - November 2023), [Certificate of completion](https://drive.google.com/file/d/1YlWrjPSnLzMjx31RFqGzy7gYiRi9iMfA/view?usp=sharing)
+- Pediatric Intensive Care Physician at Republican Scientific and Practical Center for Pediatric Surgery  (Minsk, 2012-2019)
+- Online Educational Manager and Biology Teacher at Private School Stembridge (Minsk, 2018-2022)
+
+
